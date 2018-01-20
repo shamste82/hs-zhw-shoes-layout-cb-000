@@ -38,10 +38,14 @@
 }
 
 .col-3 {
-  
+
 }
 
 [class*="col-"] {
   margin-left: 2%;
   background: yellow;
+}
+
+.first {
+  margin-left: 0%;
 }
