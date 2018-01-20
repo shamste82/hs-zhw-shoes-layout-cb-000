@@ -27,6 +27,7 @@
 .col-1 {
   float: left;
   width: 32%;
+  margin-left: 2%;
 
 
 }
@@ -43,4 +44,8 @@
 
 [class*="col-"] {
   margin-left: 2%;
+}
+
+.first {
+  margin-left: 0%;
 }
